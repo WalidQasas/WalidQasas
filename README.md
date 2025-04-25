@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Walid, a Computer Engineer and Software Developer based in Palestine. I’m currently working as a Software Engineer at the Prime Minister’s Office, where I build systems to support internal infrastructure.<br>I'm passionate about frontend development with React, backend scripting with Python, and diving deeper into AI/ML. I enjoy working on projects that combine technology with real-world impact, and I’m always open to learning something new.<br>This GitHub is where I share my personal projects, experiments, and the occasional deep dive into something I find interesting.
 
 
@@ -12,5 +12,5 @@ Hi, I'm Walid, a Computer Engineer and Software Developer based in Palestine. I�
 ![](https://nirzak-streak-stats.vercel.app/?user=WalidQasas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WalidQasas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
