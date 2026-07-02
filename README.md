@@ -1,6 +1,6 @@
 # About Me:
 
-Hi, I'm Walid, a Computer Engineer and Software Developer based in Ireland. I’m currently getting a MSc. in Computer Science degree at UCD I have experience working as a Software Engineer at the Prime Minister’s Office, where I built systems to support internal infrastructure. I'm passionate about frontend development with React, backend scripting with Python, and diving deeper into AI/ML. I enjoy working on projects that combine technology with real-world impact, and I’m always open to learning something new.
+Hi, I'm Walid, a Computer Engineer and Software Developer based in Ireland. I’m currently getting a MSc. in Computer Science degree at UCD I have experience working as a Software Engineer at the Prime Minister’s Office, where I built systems to support internal infrastructure. I am currently a Software Consultant working remotely at Principles for Peace based in Geneva, Switzerland. I'm passionate about frontend development with React, backend scripting with Python, and diving deeper into AI/ML. I enjoy working on projects that combine technology with real-world impact, and I’m always open to learning something new.
 
 ## 🌐 Socials:
 
